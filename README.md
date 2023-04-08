@@ -1,5 +1,3 @@
-nes (109 sloc)  3.38 KB
- 
 
 # Questuion 1: Square Numbers and Return Their Sum
 
